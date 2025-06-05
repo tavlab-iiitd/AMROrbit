@@ -17,3 +17,11 @@ Noel Abraham Tiju (IIITD)
 Rishi Pendyala (IIITD)
 Muthuraj Vairamuthu (IIITD)
 Aryan Gupta (IIITD)
+
+---
+License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
+You are free to share, reuse, remix, or adapt this work for non-commercial purposes as long as appropriate credit is given.
+See the [LICENSE](./LICENSE) file for details and [full legal text](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
+For commercial use, please contact the repository owner.
